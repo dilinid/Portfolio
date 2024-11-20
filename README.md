@@ -34,3 +34,8 @@ Run `ng test` to execute unit tests using [Karma](https://karma-runner.github.io
 For more information on Angular CLI commands and usage:  
 - Run `ng help`.  
 - Check out the [Angular CLI Documentation](https://angular.dev/tools/cli).
+
+## 🤝 Contributors
+
+@dilinid
+@RA2sjshdh6
